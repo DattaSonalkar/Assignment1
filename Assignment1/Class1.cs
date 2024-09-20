@@ -8,5 +8,6 @@ namespace Assignment1
 {
     internal class Class1
     {
+        Console.Read("Hellow");
     }
 }
